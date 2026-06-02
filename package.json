@@ -1,0 +1,12 @@
+{
+  "name": "jarvis-ai",
+  "version": "3.0.0",
+  "description": "J.A.R.V.I.S. - Personal AI Assistant powered by Groq",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "engines": {
+    "node": ">=18.x"
+  }
+}
